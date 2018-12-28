@@ -1,3 +1,5 @@
+存放一些文章，随时查阅
+
 It("should do something, if it can", func() {
     if !someCondition {
         Skip("special condition wasn't met")
